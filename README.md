@@ -3,7 +3,7 @@
 
 A simple open source project template geared towards fast startup of open source projects! You will want to update this readme for your own project.
 
-This document is styled using markdown syntax. You can reference the [cheat sheet here](docs/Markdown-Cheatsheet.md "Markdown-Cheatsheet") or view the [GitLab Flavored Markdown (GFM)](docs/Markdown-Cheatsheet.md "GFM").
+This document is styled using markdown syntax. You can reference the [cheat sheet here](docs/Markdown-Cheatsheet.md "Markdown-Cheatsheet") or view the [GitLab Flavored Markdown (GFM)](docs/GFM_markdown.md "GFM").
 
 ```
 TODO: update description and the goal of this project.
